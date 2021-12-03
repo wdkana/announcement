@@ -31,7 +31,8 @@ Udah siap liat siapa pemenangnya cuy?
 <br/>
 <br/>
 <hr/>
-### 🏆 Pemenang jatuh kepada 🏆:
+
+### 🏆Pemenang jatuh kepada 🏆
 
 - 🥇 &nbsp; Satrya Nararya Teja Putra
 - 🥈 &nbsp; Irfan Maulana
