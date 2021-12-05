@@ -25,6 +25,11 @@ Udah siap ngegas?
 - 📫 &nbsp; tampilan dinilai sebagai nilai opsional tambahan.
 
 <br/>
+
+#### FORM pengumpulan akan segera diinfokan di grup whatsapp *selalu cek deskripsi ya!
+
+#### batas waktu pengumpulan sampai tgl 10 desember 2021 (jumat) jam 12:00 WB
+
 <br/>
 <hr/>
 
