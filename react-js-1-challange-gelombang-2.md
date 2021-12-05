@@ -15,8 +15,6 @@ Udah siap ngegas?
 
 ### Challange:
 
-- 🛠  &nbsp; buat komponen custom tambahan(BEBAS BERUPA KOMPONEN APAPUN) yang penting original punya lu sendiri 
-- 🚀 &nbsp; 
 - 👨🏻‍💻 &nbsp; permainan lemparan data state dan props yang akan dinilai
 - 💬 &nbsp; clean code juga dinilai (penamaan variabel dll)
 - 👾 &nbsp; kreatifitas, logika & imajinasi juga akan dinilai
