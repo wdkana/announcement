@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dea.afrizal/)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCU7YluxOYon-yofPxfGHVog?style=social)](https://linkedin.com/in/iampavangandhi)
 
-Ini adalah challange untuk kalian yang udah ikutin REACT JS course SESI 1 fundamental intisarinya si react tsb 💕.
+Ini adalah challange untuk kalian yang udah ikutin REACT JS course SESI 1 - Gelombang 2 fundamental intisarinya si react tsb 💕.
 
 
 Udah siap ngegas?
@@ -13,12 +13,12 @@ Udah siap ngegas?
 
 <img src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/05/27/1311863/540x270/cek-fakta-hoaks-coffee-shop-ini-bagikan-hadiah-ribuan-jam-tangan-dan-hp.jpg" alt="Buy Me A Coffee" height="60px" width="217px" >
 
-### Challange:
+### Challenge:
 
-- 👨🏻‍💻 &nbsp; permainan lemparan data state dan props yang akan dinilai
+- 👨🏻‍💻 &nbsp; pemahaman, kelengkapan & permainan lemparan data state yang akan dinilai
 - 💬 &nbsp; clean code juga dinilai (penamaan variabel dll)
 - 👾 &nbsp; kreatifitas, logika & imajinasi juga akan dinilai
-- 📫 &nbsp; tampilan dinilai sebagai nilai opsional tambahan.
+- 📫 &nbsp; ketersedian tampilan antarmuka hanya menjadi nilai opsional tambahan.
 
 <br/>
 
