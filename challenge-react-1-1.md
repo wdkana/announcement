@@ -5,7 +5,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dea.afrizal/)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCU7YluxOYon-yofPxfGHVog?style=social)](https://linkedin.com/in/iampavangandhi)
 
-Ini adalah challange untuk kalian yang udah ikutin REACT JS course SESI 1 fundamental intisarinya si react tsb 💕.
+Ini adalah 
+
+
+ange untuk kalian yang udah ikutin REACT JS course SESI 1 fundamental intisarinya si react tsb 💕.
 
 
 Udah siap ngegas?
@@ -13,7 +16,7 @@ Udah siap ngegas?
 
 <img src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/05/27/1311863/540x270/cek-fakta-hoaks-coffee-shop-ini-bagikan-hadiah-ribuan-jam-tangan-dan-hp.jpg" alt="Buy Me A Coffee" height="60px" width="217px" >
 
-### Challange:
+### Challenge:
 
 - 🛠  &nbsp; buat komponen custom tambahan(BEBAS BERUPA KOMPONEN APAPUN) yang penting original punya lu sendiri 
 - 🚀 &nbsp; 
@@ -51,12 +54,12 @@ Udah siap ngegas?
 <br/>
 
 #### Notes:
-<code>2 orang pemenang challange diatas akan mendapatkan tiket FREE COURSE berikutnya & special ekslusif meet bareng gue dan tim</code>
+<code>2 orang pemenang challenge diatas akan mendapatkan tiket FREE COURSE berikutnya & special ekslusif meet bareng gue dan tim</code>
 
 #
 
 <div align="center">
 
-### Terimakasih utk semua ❤️ yang mau ngikutin challange ini!
+### Terimakasih utk semua ❤️ yang mau ngikutin challenge ini!
 
 </div>
