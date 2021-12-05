@@ -13,7 +13,11 @@ Udah siap ngegas?
 
 <img src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/05/27/1311863/540x270/cek-fakta-hoaks-coffee-shop-ini-bagikan-hadiah-ribuan-jam-tangan-dan-hp.jpg" alt="Buy Me A Coffee" height="60px" width="217px" >
 
-### Challenge:
+### Challenge: 
+
+#### explorasikan dirimu lewat state
+
+##### buat atau lanjutkan projek react-js fundamental kalian, lalu ikuti kriteria berikut untuk memenangkan challange ini:
 
 - 👨🏻‍💻 &nbsp; pemahaman, kelengkapan & permainan lemparan data state yang akan dinilai
 - 💬 &nbsp; clean code juga dinilai (penamaan variabel dll)
