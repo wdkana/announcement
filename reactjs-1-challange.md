@@ -5,8 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dea.afrizal/)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCU7YluxOYon-yofPxfGHVog?style=social)](https://linkedin.com/in/iampavangandhi)
 
-### Challange #1 REACT JS FUNDAMENTAL! &nbsp; ![](https://img.shields.io/badge/Winner-3%20Orang%20Terpilih-yellow)
-
 Ini adalah challange untuk kalian yang udah ikutin REACT JS course SESI 1 fundamental intisarinya si react tsb 💕.
 
 
