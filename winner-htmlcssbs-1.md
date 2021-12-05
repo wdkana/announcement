@@ -5,9 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dea.afrizal/)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCU7YluxOYon-yofPxfGHVog?style=social)](https://linkedin.com/in/iampavangandhi)
 
-### Info Pemenang Challange #1! &nbsp; ![](https://img.shields.io/badge/Winner-3%20Orang%20Terpilih-yellow)
+### Info Pemenang Challenge #1! &nbsp; ![](https://img.shields.io/badge/Winner-3%20Orang%20Terpilih-yellow)
 
-Setelah gue dan tim mengulas hasil karya kerja keras kalian sebagai programmer yang sedang mengasah skill 💪, maka dengan adanya info ini kita udah mutusin 3 orang pemenang challange web development & 2 orang pemenang story instagram terbaik yang berhak mendapatkan reward sesuai kriteria 💕.
+Setelah gue dan tim mengulas hasil karya kerja keras kalian sebagai programmer yang sedang mengasah skill 💪, maka dengan adanya info ini kita udah mutusin 3 orang pemenang challenge web development & 2 orang pemenang story instagram terbaik yang berhak mendapatkan reward sesuai kriteria 💕.
 
 
 Udah siap liat siapa pemenangnya cuy?
@@ -64,12 +64,12 @@ Udah siap liat siapa pemenangnya cuy?
 <br/>
 
 #### Notes:
-<code>kepada 5 orang pemenang challange diatas diharapkan ketersediaan waktunya untuk secara spesial meet bareng dea afrizal dan team di pukul 20.00 WIB 3 Desember 2021 untuk sekedar berbincang santuy 10 - 15 menitan</code>
+<code>kepada 5 orang pemenang challenge diatas diharapkan ketersediaan waktunya untuk secara spesial meet bareng dea afrizal dan team di pukul 20.00 WIB 3 Desember 2021 untuk sekedar berbincang santuy 10 - 15 menitan</code>
 
 #
 
 <div align="center">
 
-### Terimakasih utk semua ❤️ udah ngikutin challange ini!
+### Terimakasih utk semua ❤️ udah ngikutin challenge ini!
 
 </div>
