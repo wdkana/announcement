@@ -36,8 +36,8 @@ Udah siap ngegas?
 
 ### 🏆 Pemenang 🏆
 
-- 🥇 &nbsp; XXXX
-- 🥈 &nbsp; XXXXXX
+- 🥇 &nbsp; Risyad AR
+- 🥈 &nbsp; Farhan Reizha
 
 <hr/>
 
