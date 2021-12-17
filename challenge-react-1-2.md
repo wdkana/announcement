@@ -35,8 +35,8 @@ Udah siap ngegas?
 
 ### 🏆 Pemenang 🏆
 
-- 🥇 &nbsp; XXXX
-- 🥈 &nbsp; XXXXXX
+- 🥇 &nbsp; Rizky Ramdhani
+- 🥈 &nbsp; Mucamad supriyanto
 
 <hr/>
 
@@ -53,7 +53,7 @@ Udah siap ngegas?
 <br/>
 
 #### Notes:
-<code>2 orang pemenang challenge diatas akan mendapatkan tiket FREE COURSE berikutnya & special ekslusif meet bareng gue dan tim</code>
+<code>2 orang pemenang challenge diatas akan mendapatkan tiket FREE COURSE berikutnya</code>
 
 #
 
